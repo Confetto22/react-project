@@ -1,0 +1,21 @@
+.menuWindow{
+    background-color: red;
+    height: 70dvh;
+    position: absolute;
+    z-index: 1;
+    top: -200%;
+    transition: .8s ease;
+}
+.menuAnimate{
+    top: 0;
+}
+.closeBt{
+    position: absolute;
+    right: 10px;
+    background-color: #fff;
+    padding: 0 .4rem;
+    font-size: 2rem;
+}
+.menuContent{
+    margin-top: 4rem;
+}

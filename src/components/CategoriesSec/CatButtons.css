@@ -1,0 +1,17 @@
+.cat_bt{
+    display: flex;
+    align-items: center;
+    width: 100%;
+    gap: .6rem;
+    padding: .4rem .6rem;
+    font-family: "plus jakarta sans", sans-serif;
+    font-weight: 600;
+    font-size: large;
+    border-radius: 55px;
+    border: 1px solid #979797;
+}
+.cat_bt img{
+    
+    padding: 1.3rem;
+    border-radius: 50%;
+}

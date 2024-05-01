@@ -2,6 +2,8 @@ import "./Nav.css";
 import logo from "../../../public/images/logo 1.svg";
 import menuBt from "../../../public/images/menu.svg";
 
+import { useState } from "react";
+
 const Nav = () => {
   return (
     <nav className="navbar">

@@ -1,0 +1,34 @@
+.articles_section{
+    padding: 2rem 1rem;
+    padding-bottom: 3rem;
+    font-family: "Plus Jakarta Sans", sans-serif;
+}
+.allArticles{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1.3rem;
+    margin-top: 2rem;
+}
+.single_article{
+    /* background-color: rebeccapurple; */
+}
+.articleImg{
+    width: 100%;
+}
+.articleDate{
+    color: #e93740;
+    font-weight: 800;
+    margin: .4rem 0;
+}
+.articleTitle{
+    color: #1c1c1c;
+    font-weight: 800;
+    margin-bottom: 1rem;
+    line-height: 30px;
+}
+.articleDetail{
+    font-weight: 400;
+    color: #8b8b8b;
+    line-height: 28px;
+}

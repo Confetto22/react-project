@@ -1,0 +1,11 @@
+.categories{
+    padding: 4rem 1.4rem;
+}
+.category_buttons{
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+}
+.categories .section_heding{
+    margin-bottom: 2rem;
+}
